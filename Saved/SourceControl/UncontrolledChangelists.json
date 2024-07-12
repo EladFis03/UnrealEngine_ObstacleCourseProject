@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tkgs4/OneDrive/Desktop/Game Dev/Unreal/ObstacleAssault/Content/Main.umap",
+				"C:/Users/tkgs4/OneDrive/Desktop/Game Dev/Unreal/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/tkgs4/OneDrive/Desktop/Game Dev/Unreal/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/tkgs4/OneDrive/Desktop/Game Dev/Unreal/ObstacleAssault/Content/BP_PlatformMovmentManager.uasset",
+				"C:/Users/tkgs4/OneDrive/Desktop/Game Dev/Unreal/ObstacleAssault/Content/BP_PushingCube.uasset",
+				"C:/Users/tkgs4/OneDrive/Desktop/Game Dev/Unreal/ObstacleAssault/Content/BP_ObstacleAssaultGameMode.uasset",
+				"C:/Users/tkgs4/OneDrive/Desktop/Game Dev/Unreal/ObstacleAssault/Content/BP_RotationPlatform.uasset",
+				"C:/Users/tkgs4/OneDrive/Desktop/Game Dev/Unreal/ObstacleAssault/Content/BP_Sweeper.uasset",
+				"C:/Users/tkgs4/OneDrive/Desktop/Game Dev/Unreal/ObstacleAssault/Content/BP_EndCrystal.uasset",
+				"C:/Users/tkgs4/OneDrive/Desktop/Game Dev/Unreal/ObstacleAssault/Content/BP_FinishLine.uasset"
+			]
+		}
+	]
+}

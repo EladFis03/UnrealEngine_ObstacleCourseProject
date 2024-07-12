@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ObstacleAssault-9807.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tkgs4\OneDrive\Desktop\Game Dev\Unreal\ObstacleAssault\Intermediate\Build\Win64\x64\ObstacleAssaultEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\tkgs4\OneDrive\Desktop\Game Dev\Unreal\ObstacleAssault\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssault\ObstacleAssault.init.gen.cpp.obj"
+"C:\Users\tkgs4\OneDrive\Desktop\Game Dev\Unreal\ObstacleAssault\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssault\PlatformMovmentManager.gen.cpp.obj"
+"C:\Users\tkgs4\OneDrive\Desktop\Game Dev\Unreal\ObstacleAssault\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssault\ObstacleAssault.cpp.obj"
+"C:\Users\tkgs4\OneDrive\Desktop\Game Dev\Unreal\ObstacleAssault\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssault\PlatformMovmentManager.cpp.obj"
+"C:\Users\tkgs4\OneDrive\Desktop\Game Dev\Unreal\ObstacleAssault\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssault\Default.rc2.res"
+/OUT:"C:\Users\tkgs4\OneDrive\Desktop\Game Dev\Unreal\ObstacleAssault\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssault\UnrealEditor-ObstacleAssault-9807.lib"
